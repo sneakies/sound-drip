@@ -3,11 +3,11 @@
 ### Usage:
 
 ```
-python sounddrip.py -u username_goes_here
+python sound_drip.py -u username_goes_here
 ```
 
 * no additional libraries needed, works with what your mama gave you
-* files will download to the same directory where `sounddrip.py` exists
+* files will download to the same directory where `sound_drip.py` exists
 * you can start and stop the script as you wish, it will check to see if the mp3 exists before attempting to download it
 
 
