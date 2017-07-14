@@ -1,4 +1,4 @@
-# sound-drip
+# SoundDrip
 
 ### Usage:
 
